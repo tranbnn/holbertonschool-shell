@@ -1,3 +1,2 @@
 #!/bin/bash
 pwd
-su student_jail -c 'timeout 30 bash -c pwd'
