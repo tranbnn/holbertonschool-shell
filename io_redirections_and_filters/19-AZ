@@ -1,2 +1,2 @@
 #!/bin/bash
-sed s 'a,c'z e
+tr A Z | tr c e 
